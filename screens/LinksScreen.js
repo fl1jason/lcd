@@ -15,7 +15,7 @@ export default function LinksScreen() {
 
       <OptionButton
         icon="md-compass"
-        label="Read the React Navigation documentation"
+        label="Ojeti"
         onPress={() => WebBrowser.openBrowserAsync('https://reactnavigation.org')}
       />
 
